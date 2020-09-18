@@ -1,5 +1,48 @@
-*-----------------------------------
-*
-* Glad to be here, let's build.
-*
-*-----------------------------------
+Thank you for checking out the first ever Workshop Maybe Starter Kit!
+
+We're glad you're here and hope that you'll leave your mark. Here's how:
+1. Scroll to the bottom and copy the last message block, then paste a copy below it
+2. In your new copy of the message block change the date to today
+3. Change the message to leave your mark. Your name is optional.
+
+|------------------------------------------------------------
+| Date: 2020-09-14 
+|
+| Glad to be here, let's build.     
+|                                   
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2020-09-15
+|
+| Me too, fabulous!
+|
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2020-09-16
+|
+| Happy to be here! When Marlowe Starter Kit?
+|
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2020-09-16
+|
+| Hmm this isn't so bad. Is there a good GitHub podcast out there?
+|
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2020-09-16
+|
+| Me and GitHub, who knew we had it in us!?
+|
+|------------------------------------------------------------
+
+|------------------------------------------------------------
+| Date: 2020-09-17
+|
+| Wow, it's really good to be thinking about GitHub!
+|
+|------------------------------------------------------------
